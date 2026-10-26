@@ -1,3 +1,1 @@
-# Mi entrenamiento
-
-Abrir index.html o publicar este archivo en GitHub Pages.
+Mi Entrenamiento - versión con recursos visuales directos. Subir index.html a GitHub Pages. Requiere Internet.
